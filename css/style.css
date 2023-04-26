@@ -278,3 +278,20 @@ html,body{
  a:hover{
     color: #262626;
  }
+
+ @media (min-width:320px)  
+ { body{
+    font-size: 10px !important;
+ } 
+.ptext{
+    font-size:  18px !important;
+}
+}
+@media (min-width:480px)
+{ body{
+    font-size: 10px !important;
+ } 
+.ptext{
+    font-size:  18px !important; 
+}
+}
