@@ -286,12 +286,19 @@ html,body{
 .ptext{
     font-size:  18px !important;
 }
+.infoptext{
+    padding: 10px;
 }
+}
+
 @media (min-width:480px)
 { body{
     font-size: 10px !important;
  } 
 .ptext{
     font-size:  18px !important; 
+}
+.infoptext{
+    padding: 10px;
 }
 }
