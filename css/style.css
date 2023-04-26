@@ -302,3 +302,31 @@ html,body{
     padding: 20px 30px!important;
 }
 }
+
+@media (min-width:801px)
+{ body{
+    font-size: 12px !important;
+ } 
+.ptext{
+    font-size:  22px !important;
+}
+}
+
+@media (min-width:1025px)
+{ body{
+    font-size: 14px !important;
+ } 
+.ptext{
+    font-size:  24px !important;
+}
+}
+
+
+@media (min-width:1281px)
+{ body{
+    font-size: 16px !important;
+ } 
+.ptext{
+    font-size:  27px !important;
+}
+}
